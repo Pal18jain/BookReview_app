@@ -1,16 +1,3 @@
-# flutter_application_1
+Screenshots Of my Book Review App. In this I have reviewed my favourite book which is "It Ends With Us". It is scrollable as well. 
+![Screenshot_20220205-115145](https://user-images.githubusercontent.com/90917632/152634906-64602271-0066-43e2-b1b2-5306fd5c2e8f.jpg)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
